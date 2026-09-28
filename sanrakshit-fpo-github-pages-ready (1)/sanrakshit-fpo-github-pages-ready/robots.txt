@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manojk38904-gif.github.io/sanrakshit-fpo-website/sitemap.xml

@@ -1,0 +1,8 @@
+GitHub Pages temporary deployment target:
+https://manojk38904-gif.github.io/sanrakshit-fpo-website/
+
+Repository name: sanrakshit-fpo-website
+Branch: main
+Pages source: Deploy from a branch -> main / (root)
+
+When custom domain sanrakshitfpo.in is connected later, restore canonical/OG/JSON-LD/sitemap/robots URLs to the custom domain.
